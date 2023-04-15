@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: CourierTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.743 s <<< FAILURE! - in CourierTest
+courierCantBeCreatedWithSimilarData(CourierTest)  Time elapsed: 1.486 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path message doesn't match.
+Expected: is "Этот логин уже используется"
+  Actual: Этот логин уже используется. Попробуйте другой.
+
+	at CourierTest.courierCantBeCreatedWithSimilarData(CourierTest.java:83)
+
