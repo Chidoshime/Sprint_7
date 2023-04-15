@@ -1,7 +1,0 @@
-client\base\ScooterRestClient.class
-model\courier\CourierGenerator.class
-model\courier\CourierCredentials.class
-client\OrderClient.class
-client\CourierClient.class
-model\courier\Courier.class
-model\order\Order.class
